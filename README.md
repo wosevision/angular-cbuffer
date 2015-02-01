@@ -1,6 +1,6 @@
 # angular-cbuffer
 
-Encapsulation of [cbuffer.js](http://plnkr.co/edit/d6yDka?p=preview) library for AngularJS
+Encapsulation of [cbuffer.js](https://github.com/trevnorris/cbuffer) library for AngularJS
 
 
 ## Installation
