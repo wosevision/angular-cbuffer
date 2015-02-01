@@ -346,5 +346,5 @@
 
             /* return the constructor function */
             return CBuffer;
-        })();
+        });
 })();
