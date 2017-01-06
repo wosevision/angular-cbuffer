@@ -16,6 +16,7 @@
     "buffer"
   ],
   "license": "MIT",
+  "main": "angular-cbuffer.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/magiccrafter/angular-cbuffer.git"
